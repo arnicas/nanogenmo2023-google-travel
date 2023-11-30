@@ -6,6 +6,8 @@ The basic idea is that I start with a vacation at a string location, like "Londo
 
 View a sample: [Barcelona](./Barcelona1.md)
 
+Also Venice for an occult circle meetup (not quite 50K): [Venice](./Venice1.md)
+
 ## Minor Mechanics
 
 You have morale and money points.
