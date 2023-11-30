@@ -1,4 +1,4 @@
-# Diary of a Virtual Trip
+# Diary of a Virtual Trip - Using Google Maps/Places/SV & LLMs
 
 A NaNoGenMo project using the data source of Google Maps and Places and Streetview by API, and a mix of PALM2 and GPT4/3.5 for text connectives. With randomness. [This is kind of a sequel to my NaNoGenMo project ["Directions in Venice"](https://github.com/arnicas/venice_directions_nanogenmo) a few years ago, which used tracery grammars plus text from a GPT-2 fine-tuned model and Flickr pics to give you directions in, yes, Venice.]
 
@@ -7,6 +7,8 @@ The basic idea is that I start with a vacation at a string location, like "Londo
 View a sample: [Barcelona](./Barcelona1.md)
 
 ## Minor Mechanics
+
+You have morale and money points.
 
 Morale goes up or down based on quality of the review picked and a random weather change. You can have good or bad luck with a visit.  Money just goes down and is how I control where you stay and how long you can be traveling. To get 50K words, you need a lot of cash. Morale affects the story generation at various points.  Originally I had it decide your trip was over when your morale was in the toilet, but relented to get my 50K.
 
