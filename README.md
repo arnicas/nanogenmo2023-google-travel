@@ -4,13 +4,12 @@ A NaNoGenMo project using the data source of Google Maps and Places and Streetvi
 
 The basic idea is that I start with a vacation at a string location, like "London Bridge, London, England," and a value of money. The amount of money determines how long I stay there. Each day, I visit sites and restaurants, take pictures, and post in my journal and on social media about what I did/saw.  I have a randomly chosen "reason" for being there which effects the text generation.  I got personally more interested in the text output when I switched models and reasons to things I found fun (occult meetings, paranormal investigations, trade secrets...).
 
-View a samples: 
+View samples: 
 
-[Barcelona, as a paranormal investigator](./Barcelona1.md) (Long, clocks in to 56K)
-
-[Venice for an occult circle meetup](./Venice1.md) (Long.)
-
-[Berlin, looking for a missing person -- short](./Berlin.md)  (Short. This is funny because there are a lot of kebab stops. It feels like product placement in a tv series, tbh.)
+* [Barcelona, as a paranormal investigator](./Barcelona1.md)-- (Long, clocks in to 56K)
+* [Venice for a secret occult circle meetup](./Venice1.md) -- (Long. Evidently you are still willing to tell social media you are here for a secret occult circle.)
+* [Berlin, looking for a missing person -- short](./Berlin.md). This is funny because there are a lot of kebab stops. It feels like product placement in a tv series, tbh.
+* [Iceland, looking for local fairies to catalog -- short](./Iceland.md). Again some zingers about products and meals that seem to come from the Seelie court. Well done, GPT4. All the snaps you posted are terrible, though.
 
 ## Samples 
 
